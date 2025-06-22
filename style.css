@@ -5,22 +5,6 @@
     padding: 20px;
   }
 
-  .container {
-    max-width: 600px;
-    margin: 0 auto;
-    background-color: #400ae2;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px #rgba(0, 0, 0, 0.1);
-    
-    margin: 3rem auto;
-    
-    padding: 1.5rem;
-    border-radius: 15px;
-    
-  }
-
-
   h1 {
     text-align: center;
     color: #f8f7f9;
@@ -73,7 +57,7 @@
 
   .delete-btn,
   .edit-btn {
-    background-color: red;
+    background-color: rgb(72, 3, 52);
     color: white;
     border: none;
     padding: 5px 10px;
